@@ -1,0 +1,2 @@
+# Optional, large (installs PyTorch). Adds smart cross-language section matching.
+sentence-transformers>=2.7
