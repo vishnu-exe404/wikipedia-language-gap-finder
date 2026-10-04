@@ -6,7 +6,15 @@ Compare the same Wikipedia topic in two languages (default English vs Hindi) usi
 Features: topic search, side-by-side abstracts, coverage score, charts, missing sections and infobox
 fields (offline glossary + optional multilingual AI matching), "weakest articles" ranking with CSV export,
 data-check tab, optional Claude outline suggestions, REST backend (FastAPI), dark mode (menu ⋮ → Settings).
+Remedy
 
+The proposed solution is a Wikipedia Language Gap Finder, a web application that compares Wikipedia articles in two different languages and identifies missing information.
+
+The application is available online:
+
+Live Demo: "Wikipedia Language Gap Finder" (https://reference-url-citation.invalid/0)
+
+It compares article abstracts, sections, and infobox fields, calculates a coverage score, and highlights missing content in the smaller article.
 ## 1. Install (Python 3.10+)
 
 ```bash
