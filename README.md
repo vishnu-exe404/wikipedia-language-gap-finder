@@ -12,7 +12,7 @@ The proposed solution is a Wikipedia Language Gap Finder, a web application that
 
 The application is available online:
 
-Live Demo: "Wikipedia Language Gap Finder" (https://reference-url-citation.invalid/0)
+Live Demo:https://wikipedia-language-gap-finder-i8kggqxpgakmqh3swhkli4.streamlit.app/
 
 It compares article abstracts, sections, and infobox fields, calculates a coverage score, and highlights missing content in the smaller article.
 ## 1. Install (Python 3.10+)
